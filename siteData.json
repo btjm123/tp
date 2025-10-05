@@ -8,10 +8,10 @@
         "about-us": "About Us",
         "project-team": "Project team",
         "faizal-rafi": "Faizal Rafi",
-        "jane-doe": "Jane Doe",
-        "johnny-doe": "Johnny Doe",
-        "jean-doe": "Jean Doe",
-        "james-doe": "James Doe"
+        "yu-zongmin": "Yu Zongmin",
+        "qu-qiancheng": "Qu Qiancheng",
+        "neo-tsay-yong": "Neo Tsay Yong",
+        "benn-tan": "Benn Tan"
       },
       "headingKeywords": {}
     },
@@ -40,30 +40,18 @@
       "src": "DeveloperGuide.md",
       "title": "Developer Guide",
       "headings": {
-        "ab-3-developer-guide": "AB-3 Developer Guide",
-        "acknowledgements": "Acknowledgements",
+        "contacthelper-developer-guide": "ContactHelper Developer Guide",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
         "architecture": "Architecture",
-        "ui-component": "UI component",
-        "logic-component": "Logic component",
-        "model-component": "Model component",
-        "storage-component": "Storage component",
-        "common-classes": "Common classes",
         "implementation": "Implementation",
-        "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
-        "proposed-data-archiving": "[Proposed] Data archiving",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
         "product-scope": "Product scope",
         "user-stories": "User stories",
         "use-cases": "Use cases",
         "non-functional-requirements": "Non-Functional Requirements",
-        "glossary": "Glossary",
-        "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
-        "launch-and-shutdown": "Launch and shutdown",
-        "deleting-a-person": "Deleting a person",
-        "saving-data": "Saving data"
+        "glossary": "Glossary"
       },
       "headingKeywords": {}
     },
