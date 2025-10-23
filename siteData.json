@@ -40,7 +40,7 @@
       "src": "DeveloperGuide.md",
       "title": "Developer Guide",
       "headings": {
-        "contacthelper-developer-guide": "ContactHelper Developer Guide",
+        "meetcli-developer-guide": "MeetCLI Developer Guide",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
         "architecture": "Architecture",
