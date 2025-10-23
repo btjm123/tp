@@ -46,6 +46,7 @@
         "architecture": "Architecture",
         "implementation": "Implementation",
         "next-meeting-field": "Next meeting field",
+        "tag-commands-addtag-and-listtag": "Tag commands (addtag and listtag)",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
         "product-scope": "Product scope",
