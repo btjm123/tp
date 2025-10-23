@@ -102,6 +102,8 @@
         "viewing-help-help": "Viewing help : help",
         "adding-a-person-add": "Adding a person: add",
         "listing-all-persons-list": "Listing all persons : list",
+        "adding-a-tag-addtag": "Adding a tag : addtag",
+        "listing-all-tags-listtag": "Listing all tags : listtag",
         "editing-a-person-edit": "Editing a person : edit",
         "locating-persons-by-name-find": "Locating persons by name: find",
         "deleting-a-person-delete": "Deleting a person : delete",
