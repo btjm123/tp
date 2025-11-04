@@ -36,7 +36,7 @@ See [Developer Guide → Appendix: Requirements → Target user profile](Develop
         Java(TM) SE Runtime Environment (build 17.0.16+12-LTS-247)
         Java HotSpot(TM) 64-Bit Server VM (build 17.0.16+12-LTS-247, mixed mode, sharing)
        ```
-    * Verify that the terminal displays `java version "17"` or higher (highlighted line in screenshot above).<br>
+    * Verify that the terminal displays `java version "17"` or higher
     * if Java version displayed is not Java `17` or higher:
         * **Windows users:** Ensure you have the precise JDK version prescribed [here](https://se-education.org/guides/tutorials/javaInstallationWindows.html).
         * **Mac users:** Ensure you have the precise JDK version prescribed [here](https://se-education.org/guides/tutorials/javaInstallationMac.html).
