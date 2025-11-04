@@ -26,8 +26,20 @@ See [Developer Guide → Appendix: Requirements → Target user profile](Develop
 
 ## Quick start
 
-1. Ensure you have Java `17` or above installed in your Computer.<br>
-   **Mac users:** Ensure you have the precise JDK version prescribed [here](https://se-education.org/guides/tutorials/javaInstallationMac.html).
+1. To ensure you have Java `17` or above installed in your Computer:<br>
+    * Search for Command Prompt in the Start Menu on Windows (if you are using Mac, open terminal by using Spotlight Search (Command + Space bar), then type "Terminal").
+
+    * Type `java -version` and press Enter. You should see an output similar to below.
+
+       ```
+        java version "17.0.16" 2025-07-15 LTS
+        Java(TM) SE Runtime Environment (build 17.0.16+12-LTS-247)
+        Java HotSpot(TM) 64-Bit Server VM (build 17.0.16+12-LTS-247, mixed mode, sharing)
+       ```
+    * Verify that the terminal displays `java version "17"` or higher (highlighted line in screenshot above).<br>
+    * if Java version displayed is not Java `17` or higher:
+        * **Windows users:** Ensure you have the precise JDK version prescribed [here](https://se-education.org/guides/tutorials/javaInstallationWindows.html).
+        * **Mac users:** Ensure you have the precise JDK version prescribed [here](https://se-education.org/guides/tutorials/javaInstallationMac.html).
 
 1. Download the latest `.jar` file from [here](https://github.com/AY2526S1-CS2103T-F15A-3/tp/releases).
 
