@@ -10,7 +10,8 @@ import static seedu.address.commons.util.AppUtil.checkArgument;
 public class Name {
 
     public static final String MESSAGE_CONSTRAINTS =
-            "Names can contain alphanumeric characters, spaces, hyphens (-) and slashes (/), and must not be blank";
+            "Names can contain alphanumeric characters, spaces, hyphens (-) and slashes (/), must not be blank and "
+            + "cannot start with a special character.";
 
     /*
      * The first character of the address must not be a whitespace,
