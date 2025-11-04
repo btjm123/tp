@@ -235,6 +235,10 @@ Priorities: High (must have) - `***`, Medium (nice to have) - `**`, Low (unlikel
 * **Predicate**: A functional interface in Java that evaluates a condition on an object and returns true or false. In MeetCLI, `Predicate<Person>` is used extensively in filtering operations (e.g., `find` command) to determine which contacts match user-specified criteria. Multiple predicates can be combined with logical AND/OR to create complex filters.
 * **TagRegistry**: A runtime component that maintains the allowed set of tag names for validation. It ensures consistency across `add`, `edit`, and `find` commands by rejecting tags not in the registry. 
 * **NextMeeting**: A value object that encapsulates a contact's next scheduled meeting It defaults to `"No meeting scheduled"` when omitted. This field allows users to maintain a single, free-form reminder per contact for lightweight follow-up tracking.
+* * **Property Agent**: A professional who manages and communicates with clients, buyers, and sellers. They can use MeetCLI to track clients, property listings, and follow-up meetings efficiently.
+* **Sales Professional**:	A user who manages a network of leads and customers. MeetCLI helps them tag and organise prospects, follow up on meetings, and maintain contact records.
+* **Business Developer**:	A user who focuses on expanding client relationships and partnerships. MeetCLI assists them in maintaining structured records of contacts and upcoming meetings.
+* **GUI (Graphical User Interface)**: A visual interface that allows users to interact with the app using buttons, menus, and forms. GUI-based apps are typically more intuitive for users unfamiliar with text commands.
 
 --------------------------------------------------------------------------------------------------------------------
 
