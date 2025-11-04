@@ -99,15 +99,17 @@
       "title": "User Guide",
       "headings": {
         "meetcli-user-guide": "MeetCLI User Guide",
+        "why-a-cli-fits-these-users": "Why a CLI fits these users",
         "table-of-contents": "Table of Contents",
         "quick-start": "Quick start",
         "features": "Features",
         "key-features-overview": "Key Features Overview",
         "viewing-help-help": "Viewing help : help",
-        "adding-a-person-add": "Adding a person: add",
-        "listing-all-persons-list": "Listing all persons : list",
+        "tag-system-overview": "Tag system overview",
         "adding-a-tag-addtag": "Adding a tag: addtag",
         "listing-all-tags-listtag": "Listing all tags: listtag",
+        "adding-a-person-add": "Adding a person: add",
+        "listing-all-persons-list": "Listing all persons : list",
         "editing-a-person-edit": "Editing a person: edit",
         "locating-persons-find": "Locating persons: find",
         "deleting-a-person-delete": "Deleting a person : delete",
@@ -119,7 +121,10 @@
         "deferred-meeting-enhancements": "Deferred meeting enhancements",
         "faq": "FAQ",
         "known-issues": "Known issues",
-        "command-summary": "Command summary"
+        "command-summary": "Command summary",
+        "tag-related-commands": "Tag-related commands",
+        "person-related-commands": "Person-related commands",
+        "system-commands": "System commands"
       },
       "headingKeywords": {}
     },
