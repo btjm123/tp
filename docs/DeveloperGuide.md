@@ -252,7 +252,7 @@ The `find` feature was extended to support **name**, **tag**, and **company** fi
 * **Semantics:**
 
   * **Name:** case-insensitive **substring**, multiple keywords are **OR** (match any).
-  * **Tags:** exact, case-sensitive; multiple `t/` are **AND** (must have all).
+  * **Tags:** exact, case-insensitive; multiple `t/` are **AND** (must have all).
   * **Company:** case-insensitive substring; multiple `c/` are **OR** (match any).
   * **Mixed criteria:** name, tag, and company groups are combined with **AND**.
 * **Allowed-tag validation:** if any requested tag is **not** in `TagRegistry`, the command **shows a warning** and **does not** update the filtered list.
