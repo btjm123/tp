@@ -10,6 +10,15 @@
 
 --------------------------------------------------------------------------------------------------------------------
 
+## **Acknowledgements**
+
+We have used AI tools to help us with the ideation phase and to assist us in some parts of the codebase. 
+Some of the localized logic (i.e the parsing logic for AddTagCommandParser, constructor of TagRegistry)
+and some of the tests have been inspired and/or adapted. However, we still that we manually verified
+all code to ensure no regressions before commiting.
+
+--------------------------------------------------------------------------------------------------------------------
+
 ## **Setting up, getting started**
 
 Refer to the guide [_Setting up and getting started_](SettingUp.md).
